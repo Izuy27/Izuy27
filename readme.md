@@ -1,15 +1,18 @@
-### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+### Hi there  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">, I'm Eduardo! 
 
-There is a land where I share toys and have a break.
-
-I'm currently learning building tools and AST.
+I’m currently studying my 1st year in Software Engineering
 
 <details>
-<summary>⚡️ More about my coding life</summary>
+<summary>🍣 More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeeng&layout=compact&hide=css,html)
+- 💬 I am 18 years old, currently living in Brazil.
+  
+- 🥢 I have fluency in english, portuguese and german.
 
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=zheeeng&count_private=true&show_icons=true&theme=onedark)
+- 🍜 Developer in:
+  - Python
+  - Database
+  - Javascript developer
+  - Web
 
-</details>
